@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dawood-I
+- 👀 I’m interested in all things related to technology, from the hardware portion to the software portion including programming.
+- 🌱 I’m currently learning Python, HTML, and CSS
